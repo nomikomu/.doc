@@ -1,4 +1,5 @@
 ﻿End of Evangelion - ' 脱構築 '
 @defm03
 
-> 
+> Ludzkie serce nie jest przestrzenią którą można przedstawić w prostym układzie;
+  jego struktura podlega transformacją, 
